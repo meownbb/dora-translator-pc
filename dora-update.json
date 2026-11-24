@@ -1,4 +1,10 @@
 {
   "schemaVersion": 1,
-  "release": null
+  "release": {
+    "version": "1.3.7",
+    "build": 45,
+    "minimumWindows": "10.0.19041",
+    "notes": "Bản đầu tiên: bỏ mã kích hoạt, thêm auto-update.",
+    "downloadURL": "https://github.com/meownbb/dora-translator-pc/releases/download/v1.3.7/DoraTranslator-PC-1.3.7-Setup.exe"
+  }
 }
