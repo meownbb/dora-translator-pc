@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "release": {
-    "version": "1.3.8",
-    "build": 45,
+    "version": "1.3.9",
+    "build": 46,
     "minimumWindows": "10.0.19041",
-    "notes": "Sửa lỗi không tải được bộ giọng Kokoro Vietnamese.",
-    "downloadURL": "https://github.com/meownbb/dora-translator-pc/releases/download/v1.3.8/DoraTranslator-PC-1.3.8-Setup.exe"
+    "notes": "Tốc độ đọc tự sync theo phụ đề gốc. Thêm trang Về ứng dụng.",
+    "downloadURL": "https://github.com/meownbb/dora-translator-pc/releases/download/v1.3.9/DoraTranslator-PC-1.3.9-Setup.exe"
   }
 }
